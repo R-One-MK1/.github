@@ -2,7 +2,7 @@
 
 > "Built from scraps. Forged in Fire"
 
-R-One-MK1 is the definitive repository of my perfectly imperfect evolution.It is a collection of my struggles with the limits of my situation and capabilities and trying to be the hardest hitting hammer  (may not be the most efficient one at that). This repo is called **MK1** after the Ironman suit Tony Stark built in a cave to escape his despair, and I think this repo more or less does that for me and my journey. It is not the most glamorous, or the most efficient or the most intelligent. In a world where people are becoming more robotic, being more human means than ever. The **ROne** comes from my own alias, named after the anti hero of Ramayana with his limitless spirit but was defined by his flaws, inner struggles and chaos. 
+R-One-MK1 is the definitive repository of my perfectly imperfect evolution.It is a collection of my struggles with the limits of my situation and capabilities and trying to be the hardest hitting hammer  (may not be the most efficient one at that). This repo is called **MK1** after the Ironman suit Tony Stark built in a cave to escape his despair, and I think this repo more or less does that for me and my journey. It is not the most glamorous, or the most efficient or the most intelligent. In a world where people are becoming more robotic, being more human is more important than ever. The **ROne** comes from my own alias, named after the anti hero of Ramayana with his limitless spirit but was defined by his flaws, inner struggles and chaos. 
 
 This repository siginifies a collection of repos that I collected over my journey, while trying to confront my own limits. In the midst of giants I am profoundly entralled by, this is a humble deliberate attempt to give it my all. 
 
@@ -21,5 +21,5 @@ Thank you, MK1, for all you have been for me. **It’s time to see if this thing
 
 
 BR
-Sree
-20260422
+- Sree
+<br>20260422</br>
