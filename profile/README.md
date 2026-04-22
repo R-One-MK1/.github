@@ -16,7 +16,7 @@ I am writing this as a memo to myself as a anxious tailend to shed my imposter s
 
 Thank you, MK1, for all you have been for me. **It’s time to see if this thing flies**.
 
-![Uploading Screenshot 2026-04-19 111033.png…]()
+<img width="1628" height="1008" alt="Screenshot 2026-04-19 111033" src="https://github.com/user-attachments/assets/d50caa9a-5c1b-4ad3-9b23-a7d1495ab849" />
 
 
 BR
