@@ -16,6 +16,7 @@ I am writing this as a memo to myself as a anxious tailend to shed my imposter s
 
 Thank you, MK1, for all you have been for me. **It’s time to see if this thing flies**.
 
+![Uploading Screenshot 2026-04-19 111033.png…]()
 
 
 BR
